@@ -7,7 +7,7 @@
 
 ## Overview
 
-Adaptive Study Planner is a web-based application designed to help students manage their study schedule intelligently. It organizes study material into a hierarchy of Tests → Subjects → Topics, generates AI-weighted daily schedules, tracks mock test performance, and uses Google Gemini to analyze uploaded PDF score reports and generate personalized improvement insights.
+Adaptive Study Planner is a web-based application designed to help students manage their study schedule intelligently. It organizes study material into a hierarchy of Tests → Subjects → Topics, generates daily schedules, tracks mock test performance, and uses Google Gemini to analyze uploaded PDF score reports and generate personalized improvement insights.
 
 The system supports multiple users, each with their own isolated data, and provides a clean dashboard-driven UI built with Bootstrap 5.
 
