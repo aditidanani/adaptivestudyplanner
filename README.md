@@ -3,13 +3,26 @@
 **Owner:** Aditi Danani
 **Stack:** Python · Flask · MySQL · Bootstrap 5 · Google Gemini AI
 
+**Live Project:** http://aditidanani.com/adaptivestudyplanner
+
 ---
 
 ## Overview
 
-Adaptive Study Planner is a web-based application designed to help students manage their study schedule intelligently. It organizes study material into a hierarchy of Tests → Subjects → Topics, generates daily schedules, tracks mock test performance, and uses Google Gemini to analyze uploaded PDF score reports and generate personalized improvement insights.
+**Adaptive Study Planner** is an intelligent learning management solution designed to help students plan, organize, and improve their exam preparation.
 
-The system supports multiple users, each with their own isolated data, and provides a clean dashboard-driven UI built with Bootstrap 5.
+Instead of following the same study plan every day, the solution creates a **personalized study schedule based on the student's subjects, topics, priorities, difficulty levels, and upcoming exam dates.**
+
+The platform continuously adjusts the study plan when a student misses a study session, helping ensure that important topics receive the attention they need.
+
+## How It Works
+
+A student begins by creating an exam or test and organizing the preparation into subjects and individual topics. The student can define which topics are more difficult or important and specify the expected preparation period.
+
+Based on this information, the system creates a **daily study plan**, helping the student understand what to study and how much time to spend on each topic.
+If a study session is missed, the system automatically takes this into account and adjusts future study recommendations so that the missed topic receives additional attention.
+
+The platform also allows students to record their mock-test results and understand their academic performance over time.
 
 ---
 
